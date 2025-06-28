@@ -29,7 +29,6 @@ A full-stack platform that performs intelligent static code analysis and provide
 ### ✅ Phase 4: Actionable Feedback & UX
 - Provides example fixes and suggestions
 - Shows docs/tutorial links for each issue
-- (Optional) Review history per user
 
 ### ✅ Phase 5: Advanced Features
 - ✅ **Interactive Chatbot:** Users can ask follow-up questions like "Why is this an issue?" or "Show me a fix."
